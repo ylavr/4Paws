@@ -31,3 +31,7 @@ Data Input: Upload the dataset of pets available for adoption, including feature
 Training the Model: Use the included scripts to train the model on the dataset.
 
 Prediction and Recommendation: The app will output adoption probabilities for each pet and provide recommendations based on the data.
+
+![Screenshot 2024-09-18 224056](https://github.com/user-attachments/assets/a1e80abc-b68b-43ac-b94b-46edaad701a6)
+
+![Screenshot 2024-09-18 224142](https://github.com/user-attachments/assets/211d3ec2-dfa5-4bbc-84d2-9f68423891e3)
